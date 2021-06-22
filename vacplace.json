@@ -1,45 +1,54 @@
 [
   {
+    "id": 1,
     "img": "https://www.roadaffair.com/wp-content/uploads/2018/07/petronas-towers-kuala-lumpur-malaysia-shutterstock_397973560.jpg",
     "place": "Kuala Lumpur",
     "desc": "Although at first it may seem like a sprawling metropolis, once you’ve found your feet you’ll realize that this is the heart of modern Malaysia."
   },
   {
+    "id": 2,
     "img": "https://www.roadaffair.com/wp-content/uploads/2018/09/underwater-staghorn-table-coral-diver-sipadan-malaysia-shutterstock_160594853.jpg",
     "place": "Sipadan Island",
     "desc": "Sipadan Island truly holds the best of Malaysia when it comes to scuba diving and snorkeling."
   },
   {
+    "id": 3,
     "img": "https://www.roadaffair.com/wp-content/uploads/2018/06/canopy-walkway-taman-negara-penang-shutterstock_183658235.jpg",
     "place": "Taman Negara National Park",
     "desc": "Taman Negara is the largest national park on the Malay Peninsula. In fact, the name Taman Negara literally translates from Malay to English as ‘National Park’."
   },
   {
+    "id": 4,
     "img": "https://www.roadaffair.com/wp-content/uploads/2018/09/malacca-straits-mosque-masjid-selat-melaka-malaysia-shutterstock_228697198.jpg",
     "place": "Malacca",
     "desc": "Malacca is one of the most historic Malaysian destinations to visit. Found on the west coast, there’s an eclectic mix of architecture and culture to explore. "
   },
   {
+    "id": 5,
     "img": "https://www.roadaffair.com/wp-content/uploads/2018/09/bandar-dato-onn-mosque-johor-bahru-malaysia-shutterstock_401195926.jpg",
     "place": "Johor Bahru",
     "desc": "Johor Bahru is overshadowed by Singapore which lies across the border to the south, but actually, this is one of Malaysia’s biggest cities and traditionally one of the most important."
   },
   {
+    "id": 6,
     "img": "https://www.roadaffair.com/wp-content/uploads/2018/09/chin-swee-caves-temple-genting-highland-malaysia-shutterstock_623337584.jpg",
     "place": "Genting Highlands",
     "desc": "There are holiday resorts and amusement parks in the highlands that cater to the locals of KL, but it’s an intriguing look at local tourism and a fun place to include when you plan a trip to Malaysia."
   },
   {
+    "id": 7,
     "img": "https://www.roadaffair.com/wp-content/uploads/2018/09/tea-plantation-cameron-highlands-malaysia-shutterstock_75001801.jpg",
     "place": "Cameron Highlands",
     "desc": "The Cameron Highlands is one of the best holiday destinations in Malaysia. If you tire of the heat of the coast or the humidity of the cities, then head into these central hills for something completely different. "
   },
   {
+    "id": 8,
     "img": "https://www.roadaffair.com/wp-content/uploads/2018/09/fishing-boat-sungai-pinang-kecil-pangkor-island-malaysia-shutterstock_1045692628.jpg",
     "place": "Pulau Pangkor",
     "desc": "Sleepy Pulau Pangkor is one of the best tourist spots in Malaysia, but it’s also one of the last hidden gems on the west coast. "
   },
   {
+    "id": 9,
     "img": "https://www.roadaffair.com/wp-content/uploads/2018/07/cable-car-langkawi-malaysia-shutterstock_1076255720.jpg",
     "place": "Langkawi",
     "desc": "Langkawi is one of the most beautiful travel destinations in Malaysia, and the country’s favorite tropical getaway."
